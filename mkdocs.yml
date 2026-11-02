@@ -1,0 +1,8 @@
+site_name: Calculator Documentation
+site_description: Документация учебного проекта
+
+nav:
+  - Главная: index.md
+
+theme:
+  name: mkdocs
