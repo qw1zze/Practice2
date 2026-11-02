@@ -30,3 +30,7 @@ result = subtract(10, 4)
 ```bash
 python -m pytest -v
 ```
+
+## Версия
+
+Текущая версия проекта: 1.0.0.
